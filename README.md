@@ -1,6 +1,6 @@
 # 📧 Email Generator
 
-An Email Generator project with **frontend, backend, and extensions** to simplify automated email creation and management.  
+An Email Generator project with **frontend, backend, and extensions** to simplify automated email creation.  
 
 ## 🚀 Features
 - Generate professional emails quickly  
